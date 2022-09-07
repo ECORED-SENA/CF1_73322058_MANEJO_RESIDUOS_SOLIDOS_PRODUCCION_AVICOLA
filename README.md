@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF1_73322058_MANEJO_RESIDUOS_SOLIDOS_PRODUCCION_AVICOLA/](https://ecored-sena.github.io/CF1_73322058_MANEJO_RESIDUOS_SOLIDOS_PRODUCCION_AVICOLA/)
 
 #
 
