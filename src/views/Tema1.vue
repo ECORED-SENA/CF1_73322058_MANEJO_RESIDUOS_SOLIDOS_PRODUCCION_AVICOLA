@@ -264,7 +264,7 @@
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img17.png', alt='')                          
       .col-lg-8
-        p(data-aos="fade-down") Los pollos de engorde o razas pesadas tienen su origen en Inglaterra y algunos países asiáticos. Son comúnmente llamados Broilers, que hace referencia a "pollo asado", aunque en el mercado se denominan líneas genéticas, porque son híbridos (cruzamientos) entre la línea materna de razas White Plymouth Rock o New Hampshire, las cuales aportan características reproductivas y de producción, y la raza paterna White Cornish, que aporta características de conformación.
+        p(data-aos="fade-down") Los pollos de engorde o razas pesadas tienen su origen en Inglaterra y algunos países asiáticos. Son comúnmente llamados #[i Broilers], que hace referencia a "#[b pollo asado]", aunque en el mercado se denominan #[b líneas genéticas], porque son híbridos (cruzamientos) entre la línea materna de razas #[i White Plymouth Rock] o #[i New Hampshire], las cuales aportan características reproductivas y de producción, y la raza paterna #[i White Cornish], que aporta características de conformación.
 
         p(data-aos="fade-down").mb-3 Las líneas comerciales más comunes son:
         SlyderF(columnas="col-lg-6")(data-aos="fade-left")

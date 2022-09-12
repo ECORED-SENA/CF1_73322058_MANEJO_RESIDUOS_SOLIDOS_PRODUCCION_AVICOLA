@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p(data-aos="fade-down").mb-5 Le damos la bienvenida al estudio del componente “Fundamentos de la producción avícola”; para comenzar, observé con atención el video que se muestra enseguida. ¡Adelante!
+    p(data-aos="fade-down").mb-5 Le damos la bienvenida al estudio del componente “Fundamentos de la producción avícola”; para comenzar, observe con atención el video que se muestra enseguida. ¡Adelante!
 
     .row.justify-content-center.align-items-center    
       .col-lg-12(data-aos="fade-left")     

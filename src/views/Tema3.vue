@@ -23,12 +23,11 @@
           p(data-aos="fade-down") El siguiente esquema, presenta el diagrama general de los procesos avícolas; analícelo con atención y procure llevar registro, en su libreta personal, de los aspectos más importantes:
 
           .titulo-sexto.color-acento-contenido
-            h5 Tabla 2
-            span Plan de vacunación para pollo de engorde y ponedoras
+            h5 Tabla 3
+            span Procesos avícolas
           
           .tabla-a.color-acento-contenido.mb-5 
             table
-              caption Nota. Tomada de Pedroza (2005).
               tbody
                 tr.btop
                   td <b> Líneas genéticas<br>Granja de abuelas<br>Incubadora<br>Granjas reproductoras</b>

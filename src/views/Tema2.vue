@@ -240,8 +240,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4(data-aos="fade-down").mb-1 Nutrición y alimentación.
-              p(data-aos="fade-down").mb-0 Conozca el listado de decretos, leyes, manuales y demás documentos que integran la normativa relacionada con los manejos de residuos para la producción avícola.
+              p(data-aos="fade-down").mb-0 Afiance sus conocimientos en lo relacionado con nutrición y alimentación de aves de producción. Explore el archivo que aquí se propone.
             .col-sm-auto
               a.boton.color-acento-botones(:href="obtenerLink('downloads/Anexo_1_NutricionyAlimentacion.pdf')" target="_blank")
                 span.ts Descargar

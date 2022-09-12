@@ -16,9 +16,14 @@
       <line id="Línea_1420" data-name="Línea 1420" y1="37" transform="translate(590.5 2770.5)" fill="none" stroke="#707070" stroke-width="3"/>
       <line id="Línea_1421" data-name="Línea 1421" y1="37" transform="translate(1055.697 2770.5)" fill="none" stroke="#707070" stroke-width="3"/>
     </g>
-    <path id="Trazado_277230" data-name="Trazado 277230" d="M0,37V0" transform="translate(775.303 2872.5)" fill="none" stroke="#707070" stroke-width="3"/>
-    <path id="Trazado_277231" data-name="Trazado 277231" d="M0,37V0" transform="translate(1239.13 2872.5)" fill="none" stroke="#707070" stroke-width="3"/>
-    <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(1074.695 2863.648)" fill="none" stroke="#194d33" stroke-width="2"/>
-    <path id="comprobado-2" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(1073.695 2911.648)" fill="none" stroke="#194d33" stroke-width="2"/>
+    <path id="Trazado_277231" data-name="Trazado 277231" d="M0,37V0" transform="translate(775.303 2872.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Trazado_277230" data-name="Trazado 277230" d="M0,37V0" transform="translate(1239.13 2872.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(612 2863.648)" fill="none" stroke="#194d33" stroke-width="2"/>
+    <path id="comprobado-2" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(612 2886.648)" fill="none" stroke="#194d33" stroke-width="2"/>
+    <path id="comprobado-3" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(612 2911.648)" fill="none" stroke="#194d33" stroke-width="2"/>
+    <path id="comprobado-4" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(612 2935.648)" fill="none" stroke="#194d33" stroke-width="2"/>
+    <path id="comprobado-5" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(612 2960.648)" fill="none" stroke="#194d33" stroke-width="2"/>
+    <path id="comprobado-6" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(1074.695 2863.648)" fill="none" stroke="#194d33" stroke-width="2"/>
+    <path id="comprobado-7" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(1073.695 2911.648)" fill="none" stroke="#194d33" stroke-width="2"/>
   </g>
 </svg>
