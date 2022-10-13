@@ -192,7 +192,7 @@ export default {
         'es una rama de la zootecnia que se encarga de la cría, mejora y explotación de las aves de corral.',
     },
     {
-      termino: 'Avicultura',
+      termino: 'Granja',
       significado:
         'es un terreno utilizado para la producción de una especie pecuaria.',
     },
