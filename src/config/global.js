@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Fundamentos de la producción avícola.',
+    componenteFormativo: 'Fundamentos de la producción avícola',
     descripcionCurso:
       'Con este componente, el aprendiz se afianzará en el manejo apropiado de residuos sólidos en la producción avícola. Asimilará conceptos y prácticas básicas de sistemas productivos avícolas: pollos de engorde y ponedoras, alojamiento e ingreso, nutrición, control sanitario, entre otros. Conceptualización y apropiación de la normativa aplicada a cuidado ambiental y buenas prácticas avícolas y de salud y seguridad en el trabajo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -35,7 +35,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Semi intensivo',
+            titulo: 'Sistema semi intensivo',
             hash: 't_1_2',
           },
           {
@@ -187,50 +187,50 @@ export default {
   ],
   glosario: [
     {
-      termino: 'AVICULTURA',
+      termino: 'Avicultura',
       significado:
         'es una rama de la zootecnia que se encarga de la cría, mejora y explotación de las aves de corral.',
     },
     {
-      termino: 'GRANJA',
+      termino: 'Avicultura',
       significado:
         'es un terreno utilizado para la producción de una especie pecuaria.',
     },
     {
-      termino: 'IMPLEMENTACIÓN',
+      termino: 'Implementación',
       significado: 'ejecución de procesos y estructuras de un sistema.',
     },
     {
-      termino: 'INFORMACIÓN',
+      termino: 'Información',
       significado:
         'son datos de importancia en un tema determinado que sirven para un proceso de producción.',
     },
     {
-      termino: 'INSUMO',
+      termino: 'Insumo',
       significado:
         'es un servicio o materia prima que satisface una necesidad del ser humano.',
     },
     {
-      termino: 'MANEJO',
+      termino: 'Manejo',
       significado:
         'un procedimiento mediante el cual se entra en contacto directo con las aves de corral.',
     },
     {
-      termino: 'NORMATIVA',
+      termino: 'Normativa',
       significado: 'conjunto de leyes o normas vigentes en una entidad.',
     },
     {
-      termino: 'PARÁMETRO',
+      termino: 'Parámetro',
       significado:
         'un elemento que permite clasificar y evaluar algunas características (el rendimiento, la amplitud o la condición). ',
     },
     {
-      termino: 'PRODUCCIÓN',
+      termino: 'Producción',
       significado:
         'fabricación de un producto mediante el trabajo manual o mecánico.',
     },
     {
-      termino: 'RESIDUO SÓLIDO',
+      termino: 'Residuo sólido',
       significado:
         'son los materiales de desecho tras ser utilizados. Se compone de desechos procedentes de los materiales utilizados en los procesos de la empresa.',
     },
@@ -348,8 +348,43 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Mary Jeans Palacio Camacho',
         cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

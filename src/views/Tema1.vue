@@ -82,8 +82,7 @@
     .row.justify-content-center.align-items-stretch.my-5           
       .col-lg-5.my-3(data-aos="fade-right")
         .cajon.color-primario.p-4.h-100
-          h4.mb-3 VENTAJAS 
-          h5.mb-3 Desventajas de la explotación extensiva
+          h5.mb-3 Ventajas de la explotación extensiva
           ul.lista-ul--color.mb-0
             li 
               i.fas.fa-check
@@ -103,8 +102,7 @@
 
       .col-lg-5.my-3(data-aos="fade-left")
         .cajon.color-primario.p-4.h-100
-          h4.mb-3 DESVENTAJAS 
-          h5.mb-3 Ventajas de la explotación extensiva:
+          h5.mb-3 Desventajas de la explotación extensiva:
           ul.lista-ul--color.mb-0
             li 
               i.fas.fa-check
@@ -123,7 +121,7 @@
       .col-lg-6.my-3
         p(data-aos="fade-down") Se determina un área en la cual se instala un corral cerrado y otro espacio se deja para pastoreo; el área se encierra con material (malla, polisombra, madera o guadua); de día, los animales pueden estar en el lugar cerrado o en el abierto, pues las puertas están abiertas para que realicen el pastoreo, y en las horas de la noche, son encerrados en el gallinero. Los bebederos y comederos están dispersos en la zona, pero permiten la recolección de datos óptimos para los registros.
 
-        p(data-aos="fade-down") Por lo general, tiene una densidad de un metro cuadrado por ave (1 mt2 /ave), los nidales están ubicados dentro del gallinero y está dispuesto con camas, utilizando materiales propuestos por las recomendaciones técnicas (viruta, cascarilla de arroz o afrecho de maíz).            
+        p(data-aos="fade-down") Por lo general, tiene una densidad de un metro cuadrado por ave (1 mt#[sup 2] /ave), los nidales están ubicados dentro del gallinero y está dispuesto con camas, utilizando materiales propuestos por las recomendaciones técnicas (viruta, cascarilla de arroz o afrecho de maíz).            
       .col-lg-6.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img5.png', alt='')
 
@@ -203,7 +201,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.4   Gallina ponedora 
 
-    p(data-aos="fade-down") Las gallinas ponedoras o razas livianas son aquellos animales a los cuales se encamina la producción de huevos. Algunas razas destacadas para este propósito son: Leghorn (de la ciudad Livorno en Italia), Minorca, Catalina y Castellana Negra; todas ellas, razas originarias de España y con características particulares en su contextura.
+    p(data-aos="fade-down") Las gallinas ponedoras o razas livianas son aquellos animales a los cuales se encamina la producción de huevos. Algunas razas destacadas para este propósito son: Leghorn (de la ciudad Livorno en Italia), Menorca, Catalina y Castellana Negra; todas ellas, razas originarias de España y con características particulares en su contextura.
 
     p(data-aos="fade-down").mb-5 Entre las características más evidentes y que sirven a la producción de ponedoras, se encuentran:
 

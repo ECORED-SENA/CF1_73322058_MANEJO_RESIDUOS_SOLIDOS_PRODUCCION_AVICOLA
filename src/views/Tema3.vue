@@ -31,7 +31,7 @@
               tbody
                 tr.btop
                   td <b> Líneas genéticas<br>Granja de abuelas<br>Incubadora<br>Granjas reproductoras</b>
-                  td Huevo / carne<br><br>Huevo / carne (huevo fértil)<br>Pollitas y pollitos reproductores<br>Huevo / carne (huevo fértil)
+                  td Huevo / carne<br>Huevo / carne (huevo fértil)<br>Pollitas y pollitos reproductores<br>Huevo / carne (huevo fértil)
                 tr
                   td <b> (Línea carne)<br>Pollos de engorde (granja pollo engorde)<br>Pollo final (planta beneficio)</b>
                   td (Línea huevo)<br>Pollitas ponedoras (granjas ponedoras)<br>Huevo comercial 
@@ -43,7 +43,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4(data-aos="fade-down").mb-1 Normatividad ambiental residuos solidos
+                h4(data-aos="fade-down").mb-1 Normatividad ambiental residuos sólidos
                 p(data-aos="fade-down").mb-0 Conozca el listado de decretos, leyes, manuales y demás documentos que integran la normatividad relacionada con los manejos de residuos para la producción avícola.
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('downloads/Anexo_2_NormatividadAmbientalResiduosSolidos.pdf')" target="_blank")
@@ -69,7 +69,7 @@
     Separador 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 3.2   Salud y seguridad en el trabajo
-    p(data-aos="fade-down").mb-5 Las empresas avícolas, hoy por hoy, implementan mecanismos de bienestar, tanto psicosocial como físico, para todos sus trabajadores. Estas medidas aportan no sólo para la dignificación del trabajo, sino que aumentan la productividad y el buen clima organizacional. Adicionalmente, las empresas avícolas, cada vez más, aseguran para sus colaboradores un lugar de trabajo adecuado, donde reciben apoyo y orientación de otros prestadores interdisciplinares (enfermería, psicología, medicina, expertos técnicos, etc).
+    p(data-aos="fade-down").mb-5 Las empresas avícolas, hoy por hoy, implementan mecanismos de bienestar, tanto psicosocial como físico, para todos sus trabajadores. Estas medidas aportan no solo para la dignificación del trabajo, sino que aumentan la productividad y el buen clima organizacional. Adicionalmente, las empresas avícolas, cada vez más, aseguran para sus colaboradores un lugar de trabajo adecuado, donde reciben apoyo y orientación de otros prestadores interdisciplinares (enfermería, psicología, medicina, expertos técnicos, etc.).
 
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/img36.png', alt='')
 

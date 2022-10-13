@@ -51,7 +51,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/PF-y_fnhwew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="fade-down").mb-5 Tenga en cuenta los datos que se evidencian en la siguiente tabla y refuerce sus conocimientos en aspectos relacionados con alojamiento de aves:
     .titulo-sexto.color-acento-contenido
@@ -264,7 +264,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/7ra1cKWHu1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             
     p(data-aos="fade-down").mb-5 En la tabla que se presenta enseguida, analice algunos elementos técnicos del plan de vacunación para pollos de engorde y ponedoras:
 
@@ -394,8 +394,8 @@
             td.text-center LA SOTA + MASS H120-M41       
             td.text-center AGUA BEBIDA
           tr
-            td.text-center(colspan='2') DIE 50 % ML (DOSIS INFECTANTE DE EMBRIÓN 50%) FUENTE ICA
-            td.text-center(colspan='2') DICC7MML 8DOSIS INFECTANTES EN CULTIVO CELULAR) UFC/DOSIS (UNIDADES DE COLONIAS)
+            td.text-center(colspan='2') DIE 50 % ML (DOSIS INFECTANTE DE EMBRIÓN 50 %) FUENTE ICA
+            td.text-center(colspan='2') DICC7MML 8 (DOSIS INFECTANTES EN CULTIVO CELULAR) UFC/DOSIS (UNIDADES DE COLONIAS)
 
 
 </template>
